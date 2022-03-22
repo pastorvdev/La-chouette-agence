@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    font-family:"roboto",sans-serif;
+
+}
+
+/*header*/
+
+header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+header li{
+    margin-right: 20px;
+}
+/*Banner*/
